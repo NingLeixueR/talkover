@@ -1,0 +1,2 @@
+#!/bin/sh
+ /home/sarrow/Qt5.5.1/Tools/QtCreator/bin/qtcreator src/talkover.pro &
