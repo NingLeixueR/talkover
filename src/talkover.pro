@@ -10,5 +10,13 @@ TARGET = talkover
 
 TEMPLATE = app
 
-SOURCES += main.cpp
 
+SOURCES += \
+    mainwindow.cpp \
+    main.cpp
+
+HEADERS  += \
+    mainwindow.h
+
+FORMS    += \
+    mainwindow.ui
